@@ -16,13 +16,6 @@ Youtube API를 받아와 인기동영상, 구독리스트, 검색창 을 구현�
 
  
 
-## :two_men_holding_hands: 멤버 구성 :couple: 
-|             | 이름           | 깃허브          | 블로그           |     
-|-------------|---------------|---------------|-----------------|
-| <img src="https://github.com/boradorying.png" width="30" height="30"> | 박세준 | [깃허브](https://github.com/kt2790) | [블로그](https://velog.io/@kt2790) 
-| <img src="https://github.com/sinw212.png" width="30" height="30"> | 김소현 | [깃허브](https://github.com/boomshh) | [블로그](https://velog.io/@boomshh)
-| <img src="https://github.com/Odin5din.png" width="30" height="30"> | 김지견 | [깃허브](https://github.com/Odin5din/) | [블로그](https://odin5din.tistory.com/)
-| <img src="https://github.com/sooj36.png" width="30" height="30"> | 이수진 | [깃허브](https://github.com/sooj36) | [블로그](https://velog.io/@sooj23)
 
 ## 
 :runner: 박세준
